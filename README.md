@@ -15,7 +15,7 @@
 </h5>
 <br>
 <p align="center">
-  A mathematics graduate with hands-on expertise in machine learning and artificial intelligence, data science and analysis cultivated through self-taught programming; presently leveraging research and data analysis as a research assistant on at the  Bureau of Integaraed Rural development and driven by career goals to establish proficiency as a data scientist and Data analyst across especially in health sector.
+  A mathematics graduate with hands-on expertise in machine learning and artificial intelligence, data science and analysis cultivated through self-taught programming and academic work; presently leveraging research and data analysis as a research assistant on at the  Bureau of Integaraed Rural development and driven by career goals to establish proficiency as a data scientist and Data analyst across especially in health sector.
   <br>
   💻 I love writing code and learning anything about it
   <br>
