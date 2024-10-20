@@ -9,8 +9,8 @@
 
 <h5 align="center">
   <code><a href="[https://www.linkedin.com/in/millicent-anglangming]" title="LinkedIn Profile"><img width="22" src="LinkedIn.svg"> LinkedIn</a></code>
-   <code><a href="https://x.com/Mystical22_1?t=7E3I0cp8T3Y3MD1Rj9DUwQ&s=08" title="Twitter Profile"><img width="22" src="images/twitter.svg">Twitter</a></code>
-  <code><a href="https://www.instagram.com/mi.llicent4015/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+   <code><a href="https://x.com/Mystical22_1?t=7E3I0cp8T3Y3MD1Rj9DUwQ&s=08" title="Twitter Profile"><img width="22" src="twitter.svg">Twitter</a></code>
+  <code><a href="https://www.instagram.com/mi.llicent4015/" title="Instagram Profile"><img width="22" src="instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
@@ -27,20 +27,20 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Python" height="25" src="images/Python.svg"></code>
-  <code><img title="Linux" height="25" src="images/Linux.png"></code>
-  <code><img title="Jupyter" height="25" src="images/Jupyter.svg"></code>
-   <code><img title="Pandas" height="25" src="images/Pandas.svg"></code>
-  <code><img title="NumPy" height="25" src="images/NumPy.svg"></code>
-  <code><img title="Matplotlib" height="25" src="images/matplotlib.svg"></code>
-   <code><img title="TensorFlow" height="25" src="images/TensorFlow.svg"></code>
-    <code><img title="Vim" height="25" src="images/Vim.svg"></code>
-  <code><img title="Latex" height="25" src="images/latex.svg"></code>
-  <code><img title="Git" height="25" src="images/Git.svg"></code>
-  <code><img title="GitHub" height="25" src="images/GitHub.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/Visual Studio Code (VS Code).svg"></code>
-  <code><img title="GitHub" height="25" src="images/GitHub.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+  <code><img title="Python" height="25" src="Python.svg"></code>
+  <code><img title="Linux" height="25" src="Linux.png"></code>
+  <code><img title="Jupyter" height="25" src="Jupyter.svg"></code>
+   <code><img title="Pandas" height="25" src="Pandas.svg"></code>
+  <code><img title="NumPy" height="25" src="NumPy.svg"></code>
+  <code><img title="Matplotlib" height="25" src="matplotlib.svg"></code>
+   <code><img title="TensorFlow" height="25" src="TensorFlow.svg"></code>
+    <code><img title="Vim" height="25" src="Vim.svg"></code>
+  <code><img title="Latex" height="25" src="latex.svg"></code>
+  <code><img title="Git" height="25" src="Git.svg"></code>
+  <code><img title="GitHub" height="25" src="GitHub.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="Visual Studio Code (VS Code).svg"></code>
+  <code><img title="GitHub" height="25" src="GitHub.svg"></code>
+  <code><img title="Problem Solving" height="25" src="problemSolving.png"></code>
  
 
   
