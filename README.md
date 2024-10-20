@@ -8,10 +8,9 @@
 
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/nathaniel-a-oteng-122679202/" title="LinkedIn Profile"><img width="22" src="images/LinkedIn.svg"> LinkedIn</a></code>
-   <code><a href="https://twitter.com/clevernat1" title="Twitter Profile"><img width="22" src="images/twitter.svg">Twitter</a></code>
-  <code><a href="https://stackoverflow.com/users/15026843/oteng-a-nathaniel" title="Stack Overflow Profile"><img width="22" src="images/Stack Overflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/clevernat1/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="[https://www.linkedin.com/in/millicent-anglangming]" title="LinkedIn Profile"><img width="22" src="images/LinkedIn.svg"> LinkedIn</a></code>
+   <code><a href="https://x.com/Mystical22_1?t=7E3I0cp8T3Y3MD1Rj9DUwQ&s=08" title="Twitter Profile"><img width="22" src="images/twitter.svg">Twitter</a></code>
+  <code><a href="https://www.instagram.com/mi.llicent4015/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
